@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+.container {
+
+    position: relative;
+    width: 834px;
+    height: 633px;
+    background: #FFFFFF;
+    margin: auto;
+
+}
+.okurse {
+
+    position: absolute;
+    width: 211.4px;
+    height: 53.86px;
+    left: 72px;
+    top: 56px;
+
+}
+
+ h1 { 
+
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 101.38%;
+
+}
+
+.text {
+
+    position: absolute;
+    width: 383.41px;
+    height: 216.61px;
+    left: 72px;
+    top: 120.29px;
+
+
+}
+
+.text p {
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 150%;
+
+}
+.first-photo {
+
+    position: absolute;
+    width: 181.86px;
+    height: 182.44px;
+    left: 565.45px;
+    top: 134.19px;
+    z-index: 2;
+
+}
+
+.ellipse1 {
+
+    position: absolute;
+    width: 211.98px;
+    height: 34.17px;
+    left: 550.39px;
+    top: 299.25px;
+    z-index: 1;   
+
+}
+
+
+
+h2 {
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 130%;
+
+}
+
+.text1 {
+
+    position: absolute;
+    width: 86.88px;
+    height: 22.59px;
+    left: 72px;
+    top: 407px;
+
+}
+
+.text2 {
+
+    position: absolute;
+    width: 86.88px;
+    height: 22.59px;
+    left: 213.9px;
+    top: 407px;
+
+}
+
+.text3 {
+
+    position: absolute;
+    width: 86.88px;
+    height: 22.59px;
+    left: 354.63px;
+    top: 407px;
+
+}
+p {
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 130%;
+    
+}
+
